@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @datajerm
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning Excel, SQL, Python, Tableau
-- 💞️ I’m looking to collaborate on data analytics projects
-- 📫 How to reach me 
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love football!
+- 🌱 I’m currently learning Excel, SQL, Python, Tableau, AI
+
+- Follow me as I learn how to use modern artificial intelligence tools to perform both basic and advanced data analysis
 
 <!---
 datajerm/datajerm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
